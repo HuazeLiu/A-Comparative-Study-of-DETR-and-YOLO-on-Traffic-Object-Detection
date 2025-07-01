@@ -18,7 +18,7 @@ In this work, we have compared YOLO and DETR’s performances in carrying out tr
 ### Installing
 
 ```
-git clone [link to the code]
+git clone https://github.com/HuazeLiu/A-Comparative-Study-of-DETR-and-YOLO-on-Traffic-Object-Detection.git
 ```
 
 ### Executing program
